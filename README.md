@@ -7,7 +7,7 @@
 	- Carlos Roberto Medeiros de Lima
 	
 <p align="center">
-  <img src= "https://github.com/CarlosRobertoMedeiros/study-cliente-flow/blob/main/project-flow/multi-cluster-example.png"/>
+  <img src= "https://github.com/CarlosRobertoMedeiros/revision-arch-kafka/blob/master/project-example/multi-cluster-example.png"/>
 </p>
 
 ## Requirements
@@ -28,23 +28,6 @@
 	
   Para acessar a IDE do Control-Center (* Não se esqueça da limitação da versão para Multi Cluster *)
   utilize: http://localhost:9021/ 
-  
-
-## Links de Acesso
-  
-	
-## Collection do Postman
-  
-
-## Link indicativo para ajudar no desenvolvimento
- 
-    
-  
-## Cloud Implementation
-	
-	
-	
-		
 	
 	
 	
