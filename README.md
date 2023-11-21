@@ -7,7 +7,7 @@
 	- Carlos Roberto Medeiros de Lima
 	
 <p align="center">
-  <img src= "https://github.com/CarlosRobertoMedeiros/revision-arch-kafka/blob/master/project-example/multi-cluster-example.png"/>
+  <img src= "https://github.com/CarlosRobertoMedeiros/revision-arch-kafka/blob/master/arch-design/multi-cluster-example.png"/>
 </p>
 
 ## Requirements
